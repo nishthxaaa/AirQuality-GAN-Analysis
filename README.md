@@ -1,4 +1,4 @@
-# Learning Probability Density Functions Using Data Only
+# Learning Probability Density Functions Using Data Only 
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-GAN-orange.svg)
