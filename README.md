@@ -62,4 +62,4 @@ Ensure you have Python installed. You will need the following libraries:
 ### Installation
 1. Clone the repo:
    ```sh
-   git clone [https://github.com/your-username/project-name.git](https://github.com/your-username/project-name.git)
+   git clone [https://github.com/nishthxaaa/AirQuality-GAN-Analysis.git](https://github.com/nishthxaaa/AirQuality-GAN-Analysis.git)
